@@ -1,0 +1,26 @@
+#timer{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: brown;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color:navy;
+}
+body{
+    background-color: black;
+    padding-top: 10pc;
+}
+.container{
+    border: 2px solid white;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+background-color:violet;
+
+}
